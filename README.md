@@ -1,6 +1,3 @@
-# CSE 6140 Final Project  
-**Seungjun Cha, Jimin Park, Soomin Lim**
-
 ## Overview
 This repository contains the implementation and evaluation of three algorithms for the Traveling Salesman Problem (TSP): a depth-first brute force search with pruning, a minimum spanning tree (MST)–based approximation, and a 2-opt local search with a multi-start variant. The objective is to compare their performance in terms of solution quality, runtime efficiency, and sensitivity to cutoff times. All experiments were executed on the provided city datasets, and the total tour cost was used as the primary evaluation metric.
 
